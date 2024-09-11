@@ -4,9 +4,7 @@ import java.util.Arrays;
 
 public class SelectionSort {
 
-  public static void selectionSort() {
-
-    int[] numberList = {10, 55, 13, 2, 79, 16, 55, 88, 91, 3, 31};
+  public static void selectionSort(int[] numberList) {
 
     for (int i = 0; i < numberList.length; i++) {
       int minIndex = i;

@@ -4,9 +4,7 @@ import java.util.Arrays;
 
 public class BubbleSort {
 
-  public static void bubbleSort() {
-
-    int[] numberList = {10, 55, 13, 2, 79, 16, 55, 88, 91, 3, 31};
+  public static void bubbleSort(int[] numberList) {
 
     for(int i = 0; i < numberList.length ; i++) {
       for(int j = 0; j < numberList.length-i-1; j++) {
