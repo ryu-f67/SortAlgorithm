@@ -9,5 +9,7 @@ public class Main {
     System.out.println("Bubble Sort");
     bubbleSort();
 
+    System.out.println("Selection Sort");
+    selectionSort();
   }
 }

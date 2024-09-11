@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3598c432-722b-4e71-9ad1-2bb15fa74cac" name="変更" comment="バブルソート追加">
+    <list default="true" id="3598c432-722b-4e71-9ad1-2bb15fa74cac" name="変更" comment="選択ソート追加">
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +53,7 @@
   "keyToString": {
     "Gradle.SortAlgorithm [:Main.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "BubbleSort",
+    "git-widget-placeholder": "SelectionSort",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
@@ -111,12 +110,37 @@
       <option name="project" value="LOCAL" />
       <updated>1725973505724</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="バブルソート追加">
+      <option name="closed" value="true" />
+      <created>1726061383237</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726061383237</updated>
+    </task>
+    <task id="LOCAL-00005" summary="バブルソート追加">
+      <option name="closed" value="true" />
+      <created>1726061493865</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726061493865</updated>
+    </task>
+    <task id="LOCAL-00006" summary="選択ソート追加">
+      <option name="closed" value="true" />
+      <created>1726061522973</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726061522973</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="バブルソート追加" />
-    <option name="LAST_COMMIT_MESSAGE" value="バブルソート追加" />
+    <MESSAGE value="選択ソート追加" />
+    <option name="LAST_COMMIT_MESSAGE" value="選択ソート追加" />
   </component>
 </project>
